@@ -50,41 +50,36 @@
 
 
 # Lug'atlarni bir necha qatorga yozish
-telefonlar = {
-    'bobur':'iphone x',
-    'salim':'galaxy 9',
-    'olim':'redmi 10c',
-    'qobil':'nokia 3310'
-    }
+# telefonlar = {
+#     'bobur':'iphone x',
+#     'salim':'galaxy 9',
+#     'olim':'redmi 10c',
+#     'qobil':'nokia 3310'
+#     }
 
-print(telefonlar['bobur'])
-phone = telefonlar.get('hasan', 'mavjud emas')
-print(phone)
-
-
+# print(telefonlar['bobur'])
+# phone = telefonlar.get('hasan', 'bunday ism mavjud emas')
+# print(phone)
 
 
+# VAZIFA
 
-
-
-
+# otam = {'ism':'usmonjon', 'yil':1978, 't_shahar':"farg'ona"}
+# print(f"Otam, {otam['ism'].title()} {otam['yil']}-yilda {otam['t_shahar'].title()} viloyatida tug'ilgan.")
 
 
 
+# s_taomlar = {'otam':'osh', 'onam':"o'rama", 'ukam':"sho'rva", 'singlim':"lag'mon"}
+
+# print(f"Otamning sevimli taomi {s_taomlar['otam']}, onamning sevimli taomi {s_taomlar['onam']}.")
 
 
 
+# python_l = {'integer':'butun son', 
+#             'float':"o'nlik son", 
+#             'string':'matn',
+#             'list':"ro'yxat",
+#             'tuple':"o'zgarmas ro'yxat"
+#             }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# print(python_l)
